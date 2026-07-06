@@ -1,0 +1,26 @@
+{
+  "name": "studymonkey-ai-ai-homework-helper",
+  "version": "1.0.0",
+  "description": "AI Homework Helper get instant step-by-step help on any homework problem with a free AI helper",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "keywords": [
+    "ai-homework-helper",
+    "homework-help",
+    "ai",
+    "education",
+    "tutor",
+    "student",
+    "javascript",
+    "nodejs"
+  ],
+  "author": "StudyMonkey",
+  "license": "ISC",
+  "homepage": "https://studymonkey.ai",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/studymonkey-ai/ai-homework-helper.git"
+  }
+}
